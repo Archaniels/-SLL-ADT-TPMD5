@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1728794889 source:c:\users\sxpix\documents\codes\c++\code blocks\tpmod05\main.cpp
+	<iostream>
+	"TPMOD05_HEADER.h"
+
+1728795145 c:\users\sxpix\documents\codes\c++\code blocks\tpmod05\tpmod05_header.h
+	<iostream>
+
+1728794760 source:c:\users\sxpix\documents\codes\c++\code blocks\tpmod05\tpmod05_source.cpp
+	"TPMOD05_HEADER.h"
+
